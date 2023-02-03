@@ -12,7 +12,7 @@ function App() {
         <li>Contact</li>
       </nav>
       <div className="container">
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore laudantium deleniti ab nihil perspiciatis dicta asperiores repellendus omnis et magnam debitis, nisi temporibus assumenda minus consectetur eveniet itaque! Facilis, debitis.</p>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore laudantium deleniti ab nihil perspiciatis dicta asperiores repellendus omnis et magnam debitis, nisi temporibus assumenda minus consectetur eveniet itaque! Facilis, debitiserzfs.</p>
       </div>
     </>
   );
